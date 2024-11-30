@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 25 21:52:42 PKT 2024","Sun Aug 25 21:58:07 PKT 2024","324663","","","","","","Client should Setup Account Credentials and Login into the Client Portal and Submit his KYC update Application.",""
+"passed","Sun Aug 25 21:45:25 PKT 2024","Sun Aug 25 21:46:25 PKT 2024","60343","","","","","","RM should create Invitation link for Client",""
+"passed","Sun Aug 25 21:46:25 PKT 2024","Sun Aug 25 21:50:08 PKT 2024","222451","","","","","","Client should login into the portal and Submit his Account Opening Application",""
+"passed","Sun Aug 25 21:50:08 PKT 2024","Sun Aug 25 21:52:42 PKT 2024","154483","","","","","","Admin should login into the portal and Approve the Account Opening Application",""
